@@ -37,8 +37,3 @@ O projeto foi desenvolvido em **Python**, utilizando bibliotecas essenciais para
    ```
 2. Execute o Jupyter Notebook e rode as células do código passo a passo.  
 3. Os gráficos gerados mostrarão as tendências globais de emissões e sustentabilidade.  
-
-## 🤝 Contribuidores  
-- **Márcio Gastaldi - RM 98811**  
-- **Arthur Bessa Pian - RM 99215**  
-- **Davi Desenzi - RM 550849**  
